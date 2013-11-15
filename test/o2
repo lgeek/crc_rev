@@ -1,0 +1,3 @@
+Found a solution: poly 0x8005, xor_in: 0xffff, xor_out: 0x82dd, reverse_in: true, reverse_out: false
+Found a solution: poly 0x8005, xor_in: 0x0, xor_out: 0x0, reverse_in: true, reverse_out: false
+Found a solution: poly 0x8005, xor_in: 0x1, xor_out: 0x8115, reverse_in: true, reverse_out: false
