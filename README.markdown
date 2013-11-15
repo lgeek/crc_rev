@@ -31,7 +31,7 @@ Usage
 Performance
 -----------
 
-Bruteforcing 4 CRCs based on 4 data samples of 512 bytes each:
+Bruteforcing 4 16bit CRCs based on 4 data samples of 512 bytes each:
 
     time make test
     [...]
